@@ -6,7 +6,7 @@ Player_y = 10;
 var plyer_object = "";
 function player_update()
 {
-  fabric.Image.fromURL("player.png", function(Img) {
+  fabric.Image.fromURL("https://www.pngfind.com/pngs/m/42-424341_baby-groot-png-transparent-png.png", function(Img) {
     player_object = Img;
 
     player_object.scaleToWidth(150);
@@ -27,7 +27,7 @@ Player_y = 10;
 var plyer_object = "";
 function player_update()
 {
-  fabric.Image.fromURL("player.png", function(Img) {
+  fabric.Image.fromURL("https://e7.pngegg.com/pngimages/501/313/png-clipart-ironman-ironman-thumbnail.png", function(Img) {
     player_object = Img;
 
     player_object.scaleToWidth(150);
